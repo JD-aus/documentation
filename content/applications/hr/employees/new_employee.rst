@@ -193,7 +193,15 @@ types needed.
           :align: center
           :alt: A skill form for a Math skill type, with all the information entered.
 
+<<<<<<< HEAD
 Work Information tab
+||||||| parent of bb9fccd44 (temp)
+Work information tab
+=======
+.. _employees/work-info-tab:
+
+Work information tab
+>>>>>>> bb9fccd44 (temp)
 --------------------
 
 The Work Information tab is where the employee's specific job related information is housed. Their

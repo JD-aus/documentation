@@ -159,8 +159,18 @@ Reporting section
    :align: center
    :alt: New work entry type form with all fields to be filled in.
 
+<<<<<<< HEAD
 Working schedules
 -----------------
+||||||| parent of bb9fccd44 (temp)
+Working times
+-------------
+=======
+.. _payroll/working-times:
+
+Working times
+-------------
+>>>>>>> bb9fccd44 (temp)
 
 To view the currently configured working schedules, go to :menuselection:`Payroll --> Configuration
 --> Work Entries --> Working Schedules`. The working schedules that are available for an employee's
